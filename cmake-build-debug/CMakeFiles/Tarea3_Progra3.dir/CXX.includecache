@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Cuenta.cpp
+Cuenta.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Cuenta.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Cuenta.h
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Factura.cpp
+Factura.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Factura.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Factura.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Fecha.cpp
+Fecha.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Fecha.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Fecha.h
+
+C:/Users/dell/CLionProjects/Tarea3_Progra3/main.cpp
+iostream
+-
+Cuenta.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Cuenta.h
+Factura.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Factura.h
+Fecha.h
+C:/Users/dell/CLionProjects/Tarea3_Progra3/Fecha.h
+
